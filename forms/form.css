@@ -1,0 +1,44 @@
+body
+{
+    background-image: url('background.jfif') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+
+.box
+{
+    position: relative;
+    left: 45%;
+    top: 20%;
+}
+
+.box h1
+{
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: royalblue;
+    margin: 10px;
+}
+
+.box p
+{
+    font-size: 20px;
+    color: black;
+    
+}
+
+.box input
+{
+    font-size: 20px;
+    color: black;
+}
+
+.box button
+{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(71, 150, 214);
+    font-size: 20px;
+    color: black;
+}

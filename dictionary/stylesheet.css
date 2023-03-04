@@ -1,0 +1,42 @@
+div
+{
+   text-align: center; 
+   font-size: 30px;
+   height:810px;
+
+}
+.top
+{
+    background-color:lightblue;   
+    float:top;
+    width:100%;
+    height:50px;
+    border-style: double;
+}
+
+.left
+{
+    background-color:brown;
+    float:left;
+    width:20%;
+    border-style: double;
+
+}
+.left-1
+{
+    background-color: pink;
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+}
+.right
+{
+    background-color: lightgreen;
+    float:right;
+    width:79%;
+    border-style: double;
+}
+.right-1
+{
+    font-size: medium;
+}
